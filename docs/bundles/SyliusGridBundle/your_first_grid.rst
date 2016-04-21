@@ -16,7 +16,7 @@ In order to make it a Sylius resource, you need to configure it under ``sylius_r
                 classes:
                     model: AppBundle\Entity\Tournament
 
-That's it! Your class is now a resource. In order to learn what does it mean, please refer to `SyliusResourceBundle <http://docs.sylius.org/current/bundles/SyliusResourceBundle.html>`_ documentation.
+That's it! Your class is now a resource. In order to learn what does it mean, please refer to `SyliusResourceBundle <http://docs.sylius.org/current/bundles/SyliusResourceBundle/index.html>`_ documentation.
 
 Columns Definition
 ------------------
